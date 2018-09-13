@@ -1,5 +1,5 @@
 # Set-up environment
-1.Install mininet http://mininet.org/download/
+1.Install mininet http://mininet.org/download/ <br>
 2.Install floodlight or clone this following repo. as example https://github.com/wallnerryan/floodlight-qos-beta
 3.Extract floodlight-qos-beta files
 4.Clone and copy project492.py of mininet topo to your /mininet/custom folder
